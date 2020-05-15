@@ -1,2 +1,2 @@
 # math-game
-A multiplication quiz game using HTML, CSS, and Javascript
+A multiplication quiz game using HTML, CSS, and Javascript.
